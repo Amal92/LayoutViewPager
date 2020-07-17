@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LayoutViewPager">
+        <attr name="dotsStrokeColor" format="color" />
+        <attr name="dotsColor" format="color" />
+        <attr name="enableDots" format="boolean" />
+    </declare-styleable>
+</resources>

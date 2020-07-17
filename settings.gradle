@@ -1,0 +1,3 @@
+include ':LayoutViewPager'
+include ':app'
+rootProject.name = "LayoutViewPagerSample"
